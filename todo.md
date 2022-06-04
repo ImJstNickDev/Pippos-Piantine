@@ -1,0 +1,7 @@
+- [ ] Tradurre in italiano l'index.html
+- [ ] Convertire l'index.html in index.php
+- [ ] Aggiungere una pagina di login e una pagina di registrazione
+- [ ] Rendere dinamica la parte di filtraggio sui vari fiori con una query SQL
+- [ ] Easter egg: se clicchi su un punto particolare, la pagina cambia in una vendita al mercato nero di piante non lecite come la marijuana.
+- [ ] Aggiungere una pagina di "contatti"
+- [ ] Aggiungere una pagina di "newsletter"
